@@ -5,6 +5,10 @@
   padding: 10px;
 }
 
+.center img {
+  width: 100%;
+}
+
 body {
   font-family: 'Courier New', monospace;
   text-align: left;
