@@ -6,7 +6,8 @@
 }
 
 .align {
-  align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .center img {
