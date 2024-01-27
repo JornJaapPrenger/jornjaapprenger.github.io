@@ -5,6 +5,10 @@
   padding: 10px;
 }
 
+.align {
+  align: center;
+}
+
 .center img {
   width: 100%;
 }
